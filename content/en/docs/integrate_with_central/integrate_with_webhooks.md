@@ -1,7 +1,7 @@
 ---
 title: Set up integrations through Webhooks
 linkTitle: Set up integrations through Webhooks
-weight: 25
+weight: 200
 date: 2019-07-30
 description: Learn how you can configure webhooks to receive notifications from
   Amplify Central and Amplify Unified Catalog, and enable a seamless integration
