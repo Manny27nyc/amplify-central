@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 dayjs.extend(dayjs_plugin_utc);
 
 const Page = ({ title, description, children }) => (

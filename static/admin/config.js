@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Docs page collections require the following minimal dataset:
  *   name: [string] used in routes, ie.: /admin/collections/:slug/edit
